@@ -1,0 +1,10 @@
+angular
+archive
+*.txt
+*.mat
+*.json
+*.lst
+**/multiple_canny/
+**/structured_forests_ms/
+*.png.png
+**/bdcn_tum_gpu/
